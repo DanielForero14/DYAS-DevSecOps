@@ -1,0 +1,3 @@
+Integrantes - Taller DevSecOps y Despliegue Continuo
+
+Daniel Felipe Forero Sánchez - danielforsa@unisabana.edu.co
